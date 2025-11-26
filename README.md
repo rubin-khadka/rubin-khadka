@@ -6,7 +6,7 @@
 
 ## ROS 2 Project
 #### [ROS Navigation](https://github.com/rubin-khadka/autonomous_robot_navigation)
-Mobile robot autonomous navigation using ROS and SLAM
+#### [ROS2 Aruco maker recognising robot](https://github.com/rubin-khadka/aruco_marker_robot)
 
 ## Tech
 `ROS` `STM32` `C++` `C` `Python` `Embedded Systems`
