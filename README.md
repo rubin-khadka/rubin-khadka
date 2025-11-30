@@ -1,7 +1,7 @@
 # Hi, I'm Rubin Khadka
 
 ## STM32 Projects
-#### [STM32 Digital Thermometer](https://github.com/rubin-khadka/STM32_Digital_Thermometer)
+#### [STM32 Digital Thermometer with 74HC595 shift register & 7-Segment Display](https://github.com/rubin-khadka/STM32_Digital_Thermometer)
 #### [STM32 Uart LCD control panel](https://github.com/rubin-khadka/STM32_UART_LCD_Control_Panel)
 #### [STM32 RTC and Temperature sensor logger](https://github.com/rubin-khadka/STM32_rtc_sensor_logger)
 
