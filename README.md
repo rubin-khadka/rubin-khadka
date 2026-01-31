@@ -7,9 +7,9 @@
 #### [STM32 RTC and Temperature sensor logger](https://github.com/rubin-khadka/STM32_rtc_sensor_logger)
 
 ## ROS 2 Project
-#### [ROS Navigation](https://github.com/rubin-khadka/autonomous_robot_navigation)
-#### [ROS2 Aruco maker recognising robot](https://github.com/rubin-khadka/aruco_marker_robot)
-#### [ROS2 Plansys2 Navigation robot](https://github.com/rubin-khadka/planner_nav_robot)
+#### [ROS2 Jazzy Navigation](https://github.com/rubin-khadka/autonomous_robot_navigation)
+#### [ROS2 Jazzy Aruco maker recognising robot](https://github.com/rubin-khadka/aruco_marker_robot)
+#### [ROS2 Jazzy Plansys2 Navigation robot](https://github.com/rubin-khadka/planner_nav_robot)
 
 ## Tech
 `STM32` `AVR` `PIC` ` Assembly` `C` `C++` `Python` `Embedded Systems` `ROS` 
