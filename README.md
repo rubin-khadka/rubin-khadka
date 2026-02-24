@@ -1,6 +1,7 @@
 # Hi, I'm Rubin Khadka
 
 ## STM32 Projects
+#### [STM32 multi sensor display project with DHT11, MPU6050 IMU, & Display data on LCD 16x2 and Serial Monitor through UART](https://github.com/rubin-khadka/STM32_DHT11_MPU6050_LCD)
 #### [STM32 Thermometer Datalogger with SD card module, LM35 Temperature Sensor, 74HC595 Shift Registers & 7-Segment Display](https://github.com/rubin-khadka/STM32_Thermometer_DataLogger)
 #### [STM32 Digital Thermometer with LM35 Temperature Sensor, 74HC595 Shift Registers & 7-Segment Display](https://github.com/rubin-khadka/STM32_Digital_Thermometer)
 #### [STM32 BareMetal BlinkLed with STM32cubeIDE](https://github.com/rubin-khadka/STM32_BareMetal_BlinkLed_STM32cubeIDE)
