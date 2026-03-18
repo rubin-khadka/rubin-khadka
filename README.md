@@ -22,13 +22,15 @@ I'm a robotics engineer passionate about embedded software development and robot
 | **Microcontrollers** | STM32, AVR, PIC, ESP32 |
 | **SBCs** | Raspberry Pi, NVIDIA Jetson Orin |
 | **RTOS** | FreeRTOS |
-| **Robotics** | ROS2, OpenCV |
+| **Robotics** | ROS2, OpenCV, Gazebo, Navigation2 |
 | **IDEs** | STM32CubeIDE, Keil, CodeVisionAVR |
 | **Tools** | Git |
 
 ## 📁 Projects
 
 I maintain a curated list of all my embedded systems and robotics projects:
+- **[STM32 Projects →](https://github.com/rubin-khadka/stm32_portfolio)** (FreeRTOS, sensors, IoT, bare-metal)
+- **[ROS2 Projects →](https://github.com/rubin-khadka/ros2_portfolio)** (Navigation, ArUco, Plansys2)
 
 ## 📫 Connect
 
