@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a robotics engineer passionate about embedded software development and robotics. My work spans **embedded systems** (STM32, AVR, PIC, ESP32, Raspberry Pi) and **robotics software** (ROS2, OpenCV). I enjoy building projects that bridge hardware and software, from microcontroller firmware to robot navigation.
+I'm a robotics engineer passionate about embedded software development and robotics. I enjoy building projects that bridge hardware and software, from microcontroller firmware to robot navigation. My work spans **embedded systems** (STM32, AVR, PIC, ESP32), **single-board computers** (Raspberry Pi, NVIDIA Jetson Orin), and **robotics software** (ROS2, OpenCV).
 
 ## 🔭 Current Focus
 
@@ -19,7 +19,8 @@ I'm a robotics engineer passionate about embedded software development and robot
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | C, Python, Assembly, C++ |
-| **Microcontrollers** | STM32, AVR, PIC, ESP32, Raspberry Pi |
+| **Microcontrollers** | STM32, AVR, PIC, ESP32 |
+| **SBCs** | Raspberry Pi, NVIDIA Jetson Orin |
 | **RTOS** | FreeRTOS |
 | **Robotics** | ROS2, OpenCV |
 | **IDEs** | STM32CubeIDE, Keil, CodeVisionAVR |
