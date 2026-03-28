@@ -4,6 +4,9 @@
 
 ### Robotics Engineer | Embedded Software Engineer
 
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rubinkhadka84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 </div>
 
 I'm a robotics engineer passionate about embedded software development and robotics. I enjoy building projects that bridge hardware and software, from microcontroller firmware to robot navigation. My work spans **embedded systems** (STM32, AVR, PIC, ESP32), **single-board computers** (Raspberry Pi, NVIDIA Jetson Orin), and **robotics software** (ROS2, OpenCV).
@@ -31,10 +34,6 @@ I'm a robotics engineer passionate about embedded software development and robot
 I maintain a curated list of all my embedded systems and robotics projects:
 - **[STM32 Projects →](https://github.com/rubin-khadka/stm32_portfolio)** (FreeRTOS, sensors, IoT, bare-metal)
 - **[ROS2 Projects →](https://github.com/rubin-khadka/ros2_portfolio)** (Navigation, ArUco, Plansys2)
-
-## 📫 Connect
-
-[Email](mailto:rubinkhadka84@gmail.com)
 
 ---
 
