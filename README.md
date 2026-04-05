@@ -25,6 +25,7 @@ I'm a robotics engineer passionate about embedded software development and robot
 | **Microcontrollers** | STM32, AVR, PIC, ESP32 |
 | **SBCs** | Raspberry Pi, NVIDIA Jetson Orin |
 | **RTOS** | FreeRTOS |
+| **Protocols** | UART, I2C, SPI, Ethernet/TCP, MQTT |
 | **Robotics** | ROS2, OpenCV, Gazebo, Navigation2 |
 | **IDEs** | STM32CubeIDE, Keil, CodeVisionAVR |
 | **Tools** | Git |
