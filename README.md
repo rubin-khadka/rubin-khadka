@@ -38,6 +38,12 @@ I maintain a curated list of all my embedded systems and robotics projects:
 
 **🤖 [ROS2 Projects](https://github.com/rubin-khadka/ros2_portfolio)** — Navigation, ArUco, Plansys2
 
+### Project Highlights
+
+- **[STM32 OTA Bootloader](https://github.com/rubin-khadka/STM32_OTA_Bootloader_W5500)** — Over-the-air firmware updates via Ethernet with CRC32 verification
+- **[STM32 MicroSD Cloud Logger](https://github.com/rubin-khadka/STM32_MicroSD_Cloud_Logger)** — Multi-sensor data logging to SD card + ThingSpeak cloud via MQTT
+- **[STM32 FreeRTOS TCP Server](https://github.com/rubin-khadka/STM32_FreeRTOS_W5500_TCP_Server)** — Multitasking TCP server with FreeRTOS and W5500 Ethernet
+
 ---
 
 <div align="center">
