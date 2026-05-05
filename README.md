@@ -36,6 +36,8 @@ I maintain a curated list of all my embedded systems and robotics projects:
 
 **📘 [STM32 Projects](https://github.com/rubin-khadka/stm32_portfolio)** — FreeRTOS, sensors, IoT, bare-metal
 
+**📗 [PIC/dsPIC Projects](https://github.com/rubin-khadka/pic_portfolio)** — Robotic buggy, UART, PWM, state machine
+
 **🤖 [ROS2 Projects](https://github.com/rubin-khadka/ros2_portfolio)** — Navigation, ArUco, Plansys2
 
 ### Project Highlights
