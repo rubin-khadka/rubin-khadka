@@ -9,13 +9,13 @@
 
 </div>
 
-I'm a robotics engineer passionate about embedded software development and robotics. I enjoy building projects that bridge hardware and software, from microcontroller firmware to robot navigation. My work spans **embedded systems** (STM32, AVR, PIC, ESP32), **single-board computers** (Raspberry Pi, NVIDIA Jetson Orin), and **robotics software** (ROS2, OpenCV, Nav2).
+I'm an Embedded Software and Robotics engineer passionate about embedded software development and robotics. I enjoy building projects that bridge hardware and software, from microcontroller firmware to robot navigation. My work spans **embedded systems** (STM32, AVR, PIC, ESP32), **single-board computers** (Raspberry Pi, NVIDIA Jetson Orin), and **robotics software** (ROS2, OpenCV, Nav2).
 
 ## 🔭 Current Focus
 
 - Deepening my knowledge of **FreeRTOS** and real-time systems
-- Learning **FPGA** design with Verilog/VHDL
 - Building more embedded and robotics projects
+- Developing real-time perception systems for climbing robots at **Italian Institute of Technology (IIT)**
 
 ## 🛠️ Skills
 
@@ -24,11 +24,12 @@ I'm a robotics engineer passionate about embedded software development and robot
 | **Languages** | C, Python, Assembly, C++ |
 | **Microcontrollers** | STM32, AVR, PIC, ESP32 |
 | **SBCs** | Raspberry Pi, NVIDIA Jetson Orin |
-| **RTOS** | FreeRTOS |
-| **Protocols & Wireless** | UART, I2C, SPI, CAN, Ethernet/TCP, MQTT, WiFi |
-| **Robotics** | ROS2, OpenCV, Gazebo, Navigation2, PlanSys2 |
-| **IDEs** | STM32CubeIDE, Keil, CodeVisionAVR |
-| **Tools** | Git, Docker |
+| **RTOS/OS** | FreeRTOS, Bare-Metal, Linux/Ubuntu |
+| **Protocols** | SPI, I2C, UART, CAN, Ethernet, 1-Wire, MQTT, TCP/IP |
+| **Robotics** | ROS2, OpenCV, Gazebo, Navigation2, PlanSys2, MATLAB/Simulink |
+| **IDEs** | VS Code, STM32CubeIDE, Keil MDK-ARM, CodeVisionAVR |
+| **Test/Debug** | Logic Analyzer, Oscilloscope, Serial Terminals |
+| **Tools** | Git, Docker, ST-Link |
 
 ## 📁 Projects
 
@@ -42,9 +43,9 @@ I maintain a curated list of all my embedded systems and robotics projects:
 
 ### Project Highlights
 
-- **[STM32 OTA Bootloader](https://github.com/rubin-khadka/STM32_OTA_Bootloader_W5500)** — Over-the-air firmware updates via Ethernet with CRC32 verification
-- **[STM32 MicroSD Cloud Logger](https://github.com/rubin-khadka/STM32_MicroSD_Cloud_Logger)** — Multi-sensor data logging to SD card + ThingSpeak cloud via MQTT
-- **[STM32 FreeRTOS TCP Server](https://github.com/rubin-khadka/STM32_FreeRTOS_W5500_TCP_Server)** — Multitasking TCP server with FreeRTOS and W5500 Ethernet
+- **[STM32 OTA Bootloader with W5500 Ethernet](https://github.com/rubin-khadka/STM32_OTA_Bootloader_W5500)** — Over-the-air firmware updates via Ethernet with CRC32 verification
+- **[STM32 Multi-Sensor Cloud Logger](https://github.com/rubin-khadka/STM32_MicroSD_Cloud_Logger)** — Multi-sensor data logging to SD card + ThingSpeak cloud via MQTT
+- **[STM32 CAN Bus Sensor Network](https://github.com/rubin-khadka/STM32_CAN_Sensor_Fusion)** — Distributed dual-node system with hardware CAN filtering and LCD monitoring
 
 ---
 
